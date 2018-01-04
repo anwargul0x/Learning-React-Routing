@@ -3,7 +3,6 @@ import {BrowserRouter as Router,Switch,Route} from 'react-router-dom';
 import Header from '../Components/Header'
 import Portfolio from '../Components/portfolio'
 import Contact from '../Components/Contact'
-import Item from '../Components/item'
 import Welcome from '../Components/Welcome'
 
 const AppRouter = () =>{
